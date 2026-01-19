@@ -2,7 +2,6 @@
 
 **The semantic boundary for AI systems**
 
-🌐 https://axiominfra.cloud
 
 ---
 
