@@ -11,6 +11,8 @@
 As AI models grow more capable, the limiting factor is no longer intelligence — it’s how context is handled.  
 Axiom Infra solves this at the infrastructure layer.
 
+Enterprises can’t use cloud LLMs on real internal data because compliance teams block it — we make that possible without exposing the data.
+
 ---
 
 ## 🧩 The Pain We Solve
