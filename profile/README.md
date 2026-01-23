@@ -34,6 +34,18 @@ Existing tools solve parts of this problem — **none solve it end-to-end**.
 
 ---
 
+## What Axiom Infra Is Not
+
+- Not an agency or services-first model  
+- Not blind redaction or masking of text  
+- Not encryption-only approaches that prevent inference-time reasoning  
+- Not a fully on-prem LLM stack  
+
+Axiom Infra is an infrastructure layer designed to enforce a semantic boundary:  
+raw data stays inside a trusted environment, while structured meaning remains usable for cloud-scale AI reasoning.
+
+---
+
 ## What Makes Axiom-Core Different
 
 Most privacy tools protect data by **reducing usefulness**.  
