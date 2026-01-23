@@ -2,6 +2,12 @@
 
 **The semantic boundary for AI systems**
 
+## TL;DR
+
+**Axiom Infra builds open-source infrastructure that enables cloud LLMs to reason over sensitive data by preserving semantic structure while keeping raw data strictly inside a trusted boundary.**
+
+It is designed from day one for high-quality reasoning, auditability, and compliance in regulated environments.
+
 ---
 
 ## Mission
