@@ -63,4 +63,5 @@ Focused on correctness, evaluation, and narrow real-world validation.
 
 ## License
 
-TBD
+License will be determined as the project matures.
+
