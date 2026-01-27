@@ -64,4 +64,5 @@ Focused on correctness, evaluation, and narrow real-world validation.
 ## License
 
 License will be determined as the project matures.
+
 This repository is shared for transparency and early technical exploration.
